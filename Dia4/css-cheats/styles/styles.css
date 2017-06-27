@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+text-align: right;
+}
+header>div:first-child{
+  background-color: #013ADF;
+  height: 100px;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+
+}
+button{
+  background-color: #0080FF;
+}

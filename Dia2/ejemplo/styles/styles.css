@@ -1,0 +1,39 @@
+body{
+  margin: 20px;
+}
+
+div{
+
+
+  border: 1px black solid;
+  margin: 1em;
+  padding: 1em;
+}
+  .yellow-divs{
+    background-color: yellow;
+  }
+
+  #div-super-especial{
+    background-color: green;
+  }
+
+p{
+  color: red;
+  font-size: 20px;
+}
+/*comentarios*/
+button{
+  margin-top: 1em;
+  background-color: pink;
+  padding: 1em;
+}
+.centrado{
+  text-align: center;
+}
+.div-pequeno{
+/*  display: inline-block;*/
+  width: 150px;
+  background-color: dodgerblue;
+  color: white;
+  margin: 0 auto;;
+}
